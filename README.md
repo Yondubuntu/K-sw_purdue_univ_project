@@ -36,7 +36,7 @@
 ## week 1 (01.01 ~ 01.07) 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/68101034/148404438-a25ebb7a-05cb-43ce-8f76-914b50e4ecba.png">
 
-<img width="756" alt="image" src="https://user-images.githubusercontent.com/68101034/148837509-e9b85b4f-eca3-4faa-9dd2-b3aa83bea4dc.png">
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/68101034/148837509-e9b85b4f-eca3-4faa-9dd2-b3aa83bea4dc.png">
 
 
 
