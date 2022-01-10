@@ -35,6 +35,7 @@ Enterprise Data Mgmt time.
 실험 : 7;30 -13:20 
 
 -> CNIT 34600 KNOY B041
+
 화 목. / noon - 1:15p
 Wireless network 
 
