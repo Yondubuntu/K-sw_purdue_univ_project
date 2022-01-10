@@ -1,6 +1,3 @@
-# K-sw_purdue_univ_project
-
-
 # K-SW-Purdue-University-Project
 ## Air Quality and Environmental system
 
