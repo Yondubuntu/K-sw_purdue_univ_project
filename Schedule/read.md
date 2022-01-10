@@ -24,7 +24,7 @@ Purdue  program schedule
 2/24/2022 12:00 PM - 1:15 PM
 
 
-##AUDITNG CLASS 
+## AUDITNG CLASS 
 
 ---
 -> CNIT 39200 
@@ -40,7 +40,7 @@ Enterprise Data Mgmt time.
 Wireless network 
 
 
-##EVENT 
+## EVENT 
 
 ---
 -> every Monday	Evening prof Lee. Meeting 
