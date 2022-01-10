@@ -44,8 +44,11 @@ Wireless network
 
 ---
 -> every Monday	Evening prof Lee. Meeting 
+
 -> January 17 University Holiday and the KSW will be closed.
-->January 28 Midterm Presentations
-->February 25 Final Presentation
+
+-> January 28 Midterm Presentations
+
+-> February 25 Final Presentation
 
 
