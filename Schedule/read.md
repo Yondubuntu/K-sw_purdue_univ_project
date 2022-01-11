@@ -39,16 +39,37 @@ Enterprise Data Mgmt time.
 화 목. / noon - 1:15p
 Wireless network 
 
+✔️**Wireless network**
+
+> CNIT 34600 KNOY B041
+
+화 목. / noon - 1:15p
+
+MFET 24800 
+
+I**ntroduction to Robotics**  
+
+화목 1:30p - 2:20p, WALC B091, *59 enrolled, 72 limit*, Diao, Xiumin (Instr)
+
+ ECE 32100 **Electromechanical Motion Devices  월수금 8 : 30 - 9:20  wang2599** 
+
+✔️ **ECE 51018   하이브드리드 자동차   월수금 10 ;30 - 11:20  wang 2555**
+
+✔️ **디지털 마케팅 전략** MGMT 42710  이진수 교수님  ME 1051
+
+
+
+
 
 ## EVENT 
 
 ---
--> every Monday	Evening prof Lee. Meeting 
+✅ every Monday Evening prof Lee. Meeting
 
--> January 17 University Holiday and the KSW will be closed.
+✅ January 17 University Holiday and the KSW will be closed.
 
--> January 28 Midterm Presentations
+✅ January 28 Midterm Presentations
 
--> February 25 Final Presentation
+✅ February 25 Final Presentation
 
 
