@@ -38,6 +38,7 @@
 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/68101034/148837509-e9b85b4f-eca3-4faa-9dd2-b3aa83bea4dc.png">
 
+## week 2 (01.09 ~ 01.16) 
 
-
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/68101034/149009983-29a7efa9-3943-4e1f-9a8b-044b55b87abe.png">
 
