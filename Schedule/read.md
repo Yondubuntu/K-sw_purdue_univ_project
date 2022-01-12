@@ -47,7 +47,7 @@ Wireless network
 
 MFET 24800 
 
-I**ntroduction to Robotics**  
+✔️ I**ntroduction to Robotics**  
 
 화목 1:30p - 2:20p, WALC B091, *59 enrolled, 72 limit*, Diao, Xiumin (Instr)
 
