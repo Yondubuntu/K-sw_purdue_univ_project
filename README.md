@@ -9,6 +9,7 @@
 
 - 아두이노 우노 6,  
 - 미세먼지 센서 
+- 온습도 센서 (dht22) 
 - 
 
 - 미국 공기질 공공데이터 사이트: https://www.epa.gov/outdoor-air-quality-data
