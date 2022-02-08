@@ -1,3 +1,3 @@
+## SDS 011 에러 발생 
 
-
-img width="219" alt="Screen Shot 2022-02-08 at 11 03 59 AM" src="https://user-images.githubusercontent.com/68101034/153028018-d79e5ff5-df2f-427e-b971-d88507866153.png">
+<img width="222" alt="image" src="https://user-images.githubusercontent.com/68101034/153028102-924332c4-0e52-41cf-98a3-93ee33b3a05f.png">
