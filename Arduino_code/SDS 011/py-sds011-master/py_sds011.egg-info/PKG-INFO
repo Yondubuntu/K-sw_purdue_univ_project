@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: py-sds011
+Version: 0.9
+Summary: Python interface to the SDS011 air quality sensor.
+Home-page: https://github.com/ikalchev/py-sds011
+Author: Ivan Kalchev
+License: Apache-2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Linux
+Classifier: Topic :: Home Automation
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Intended Audience :: Developers
+License-File: LICENSE
+
+UNKNOWN
+
