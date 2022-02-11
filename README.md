@@ -43,3 +43,8 @@
 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/68101034/149009983-29a7efa9-3943-4e1f-9a8b-044b55b87abe.png">
 
+## week 3 (01.17 ~ 01.23) 
+
+
+
+## week 4 (01.23 ~ 01 .30) 
