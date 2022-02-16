@@ -67,9 +67,9 @@ To date, several studies and papers have measured only outdoor data or measured 
 ## 📋 System Overview
 
  <p align="center">
-<img src ="https://user-images.githubusercontent.com/68101034/154292123-350437c7-d229-4f4d-9dfe-950b7f3cd729.png" width = "700" alt="Image Error"/> 
+<img src ="https://user-images.githubusercontent.com/68101034/154292376-cdc7f1a1-a31b-4423-983c-6e0d40475f3a.png" width = "700" alt="Image Error"/> 
  </p>
- 
+
 
 
 
