@@ -1,4 +1,4 @@
-# 📉Air Quality Data Analysis Project (2022Purdue Univ)📈
+# 📉Air Quality Data Analysis Project (2022 Purdue Univ)📈
 
 <br>
 
