@@ -67,8 +67,10 @@ To date, several studies and papers have measured only outdoor data or measured 
 ## 📋 System Overview
 
  <p align="center">
-<img src ="https://user-images.githubusercontent.com/68101034/154283808-82503b46-1e4b-4878-b847-f8504579977c.png" width = "700" alt="Image Error"/> 
+<img src ="https://user-images.githubusercontent.com/68101034/154292123-350437c7-d229-4f4d-9dfe-950b7f3cd729.png" width = "700" alt="Image Error"/> 
  </p>
+ 
+
 
 
 **1) Collecting Indoor data:** Indoor air data measured pollutants such as fine dust, nitrogen dioxide (NO), carbon monoxide (CO), and ozone with sensors. The measurement devices were measured using two Arduino uno and pms 5003 (dust sensor), dht 11 (temperature and humidity sensor), mq2 (gas sensor), and mq135 (gas sensor).
